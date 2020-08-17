@@ -1,8 +1,6 @@
 #+TITLE: Compiler Construction
 
-* Compiler Construction
-
-** Datatype description
+* Datatype description
 
 | datatype        | value                             |
 |-----------------+-----------------------------------|
