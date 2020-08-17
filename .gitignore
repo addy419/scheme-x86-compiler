@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+# Markdown
+*.md
+
+# C executable
+.ccls-cache/
+a.out

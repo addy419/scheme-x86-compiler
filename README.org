@@ -1,0 +1,16 @@
+#+TITLE: Compiler Construction
+
+* Compiler Construction
+
+** Datatype description
+
+| datatype        | value                             |
+|-----------------+-----------------------------------|
+| integer         | ~iiiiiiiiiiiiiiiiiiiiiiiiiiiii00~ |
+| boolean         | ~0000000000000000000000b00001111~ |
+| char            | ~000000000000000cccccccc00000111~ |
+| pair pointer    | ~pppppppppppppppppppppppppppp001~ |
+| vector pointer  | ~pppppppppppppppppppppppppppp010~ |
+| string pointer  | ~pppppppppppppppppppppppppppp011~ |
+| symbol pointer  | ~pppppppppppppppppppppppppppp101~ |
+| closure pointer | ~pppppppppppppppppppppppppppp110~ |
